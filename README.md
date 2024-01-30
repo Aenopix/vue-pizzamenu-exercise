@@ -1,6 +1,6 @@
 # vue-pizzamenu-exercise
 
-This template should help get you started developing with Vue 3 in Vite.
+![vue-pizzamenu-front](https://github.com/Aenopix/vue-pizzamenu-exercise/assets/857802/89373a0b-356e-45e3-a899-b2dbe2b2e8c2)
 
 ## Recommended IDE Setup
 
